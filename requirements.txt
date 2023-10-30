@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter
+scikit-learn
+dataprep
+xgboost
+markupsafe==2.0.1
