@@ -8,3 +8,5 @@ scikit-learn
 dataprep
 xgboost
 markupsafe==2.0.1
+requests
+BeautifulSoup
